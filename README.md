@@ -16,7 +16,7 @@ With experience working across diverse datasets, I analyze **market trends, cust
 
 - **Programming Languages:** Python, SQL  
 - **Data Analysis Tools:** Power BI, Tableau, Excel  
-- **Marketing Analytics Tools:** Google Analytics 
+- **Marketing Analytics Tools:** Google Analytics, Google Tag Manager
 - **Statistical Techniques:** A/B Testing, Predictive Modeling, Segmentation Analysis  
 
 ## 🎓 Education  
